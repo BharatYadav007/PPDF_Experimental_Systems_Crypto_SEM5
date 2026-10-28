@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-10-28T15:58:58.344282+00:00",
+  "python_version": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "dataset": "entirely synthetic, seeded generator",
+  "sizes": [
+    1000,
+    5000,
+    10000
+  ],
+  "repeats": 3,
+  "warmups": 0,
+  "seed": 2026,
+  "first_or_keywords": [
+    "invoice",
+    "transfer",
+    "refund"
+  ],
+  "second_and_keywords": [
+    "invoice",
+    "transfer"
+  ],
+  "security_notes": [
+    "in-process role separation",
+    "HMAC index leaks search/access patterns",
+    "no HE in core benchmarks",
+    "not production-forensic validated",
+    "tracked Python allocations are not process peak RSS"
+  ]
+}

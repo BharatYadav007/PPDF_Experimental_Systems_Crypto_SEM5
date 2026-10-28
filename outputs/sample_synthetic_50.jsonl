@@ -1,0 +1,50 @@
+{"amount_cents":335103,"category":"relevant_exact","label_relevant":true,"record_id":"R0000000","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000000"}
+{"amount_cents":536785,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000001","sensitive":true,"text":"confidential health appointment family diary id00000001"}
+{"amount_cents":107722,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000002","sensitive":false,"text":"community notice public library schedule id00000002"}
+{"amount_cents":630326,"category":"irrelevant_ambiguous","label_relevant":false,"record_id":"R0000003","sensitive":true,"text":"invoice transfer for legitimate family expense id00000003"}
+{"amount_cents":583694,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000004","sensitive":false,"text":"community notice public library schedule id00000004"}
+{"amount_cents":600481,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000005","sensitive":true,"text":"confidential health appointment family diary id00000005"}
+{"amount_cents":514850,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000006","sensitive":true,"text":"confidential health appointment family diary id00000006"}
+{"amount_cents":615111,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000007","sensitive":false,"text":"community notice public library schedule id00000007"}
+{"amount_cents":251689,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000008","sensitive":true,"text":"confidential health appointment family diary id00000008"}
+{"amount_cents":644139,"category":"relevant_exact","label_relevant":true,"record_id":"R0000009","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000009"}
+{"amount_cents":116215,"category":"relevant_exact","label_relevant":true,"record_id":"R0000010","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000010"}
+{"amount_cents":102914,"category":"irrelevant_related","label_relevant":false,"record_id":"R0000011","sensitive":true,"text":"refund invoice for routine subscription id00000011"}
+{"amount_cents":12146,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000012","sensitive":true,"text":"confidential health appointment family diary id00000012"}
+{"amount_cents":514202,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000013","sensitive":false,"text":"community notice public library schedule id00000013"}
+{"amount_cents":329597,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000014","sensitive":false,"text":"community notice public library schedule id00000014"}
+{"amount_cents":416612,"category":"irrelevant_ambiguous","label_relevant":false,"record_id":"R0000015","sensitive":true,"text":"invoice transfer for legitimate family expense id00000015"}
+{"amount_cents":364645,"category":"irrelevant_ambiguous","label_relevant":false,"record_id":"R0000016","sensitive":true,"text":"invoice transfer for legitimate family expense id00000016"}
+{"amount_cents":394725,"category":"irrelevant_related","label_relevant":false,"record_id":"R0000017","sensitive":true,"text":"refund invoice for routine subscription id00000017"}
+{"amount_cents":538635,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000018","sensitive":false,"text":"community notice public library schedule id00000018"}
+{"amount_cents":80127,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000019","sensitive":false,"text":"community notice public library schedule id00000019"}
+{"amount_cents":357029,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000020","sensitive":false,"text":"community notice public library schedule id00000020"}
+{"amount_cents":584629,"category":"relevant_exact","label_relevant":true,"record_id":"R0000021","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000021"}
+{"amount_cents":306411,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000022","sensitive":true,"text":"confidential health appointment family diary id00000022"}
+{"amount_cents":479768,"category":"irrelevant_related","label_relevant":false,"record_id":"R0000023","sensitive":true,"text":"refund invoice for routine subscription id00000023"}
+{"amount_cents":605572,"category":"relevant_broad","label_relevant":true,"record_id":"R0000024","sensitive":true,"text":"payment redirection unauthorized bank beneficiary id00000024"}
+{"amount_cents":26041,"category":"irrelevant_related","label_relevant":false,"record_id":"R0000025","sensitive":true,"text":"refund invoice for routine subscription id00000025"}
+{"amount_cents":386861,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000026","sensitive":false,"text":"community notice public library schedule id00000026"}
+{"amount_cents":483569,"category":"irrelevant_related","label_relevant":false,"record_id":"R0000027","sensitive":true,"text":"refund invoice for routine subscription id00000027"}
+{"amount_cents":95189,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000028","sensitive":true,"text":"confidential health appointment family diary id00000028"}
+{"amount_cents":614269,"category":"irrelevant_related","label_relevant":false,"record_id":"R0000029","sensitive":true,"text":"refund invoice for routine subscription id00000029"}
+{"amount_cents":522768,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000030","sensitive":true,"text":"confidential health appointment family diary id00000030"}
+{"amount_cents":446209,"category":"relevant_exact","label_relevant":true,"record_id":"R0000031","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000031"}
+{"amount_cents":629418,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000032","sensitive":true,"text":"confidential health appointment family diary id00000032"}
+{"amount_cents":417588,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000033","sensitive":true,"text":"confidential health appointment family diary id00000033"}
+{"amount_cents":271307,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000034","sensitive":true,"text":"confidential health appointment family diary id00000034"}
+{"amount_cents":591496,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000035","sensitive":true,"text":"confidential health appointment family diary id00000035"}
+{"amount_cents":537966,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000036","sensitive":true,"text":"confidential health appointment family diary id00000036"}
+{"amount_cents":26708,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000037","sensitive":true,"text":"confidential health appointment family diary id00000037"}
+{"amount_cents":235531,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000038","sensitive":true,"text":"confidential health appointment family diary id00000038"}
+{"amount_cents":135365,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000039","sensitive":false,"text":"community notice public library schedule id00000039"}
+{"amount_cents":548732,"category":"relevant_exact","label_relevant":true,"record_id":"R0000040","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000040"}
+{"amount_cents":107659,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000041","sensitive":false,"text":"community notice public library schedule id00000041"}
+{"amount_cents":652639,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000042","sensitive":false,"text":"community notice public library schedule id00000042"}
+{"amount_cents":492973,"category":"irrelevant_private","label_relevant":false,"record_id":"R0000043","sensitive":true,"text":"confidential health appointment family diary id00000043"}
+{"amount_cents":240147,"category":"relevant_broad","label_relevant":true,"record_id":"R0000044","sensitive":true,"text":"payment redirection unauthorized bank beneficiary id00000044"}
+{"amount_cents":657211,"category":"relevant_exact","label_relevant":true,"record_id":"R0000045","sensitive":true,"text":"invoice transfer diversion suspicious beneficiary ledger id00000045"}
+{"amount_cents":479085,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000046","sensitive":false,"text":"community notice public library schedule id00000046"}
+{"amount_cents":492307,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000047","sensitive":false,"text":"community notice public library schedule id00000047"}
+{"amount_cents":572236,"category":"irrelevant_public","label_relevant":false,"record_id":"R0000048","sensitive":false,"text":"community notice public library schedule id00000048"}
+{"amount_cents":587088,"category":"irrelevant_ambiguous","label_relevant":false,"record_id":"R0000049","sensitive":true,"text":"invoice transfer for legitimate family expense id00000049"}

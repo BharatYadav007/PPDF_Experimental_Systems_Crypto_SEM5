@@ -1,0 +1,30 @@
+plaintext         n= 1,000 repetition= 1 total=     8.22 ms precision=0.567 recall=0.695
+plaintext         n= 1,000 repetition= 2 total=     8.30 ms precision=0.567 recall=0.695
+plaintext         n= 1,000 repetition= 3 total=     7.13 ms precision=0.567 recall=0.695
+full_encryption   n= 1,000 repetition= 1 total=    67.22 ms precision=0.567 recall=0.695
+full_encryption   n= 1,000 repetition= 2 total=    67.27 ms precision=0.567 recall=0.695
+full_encryption   n= 1,000 repetition= 3 total=    62.55 ms precision=0.567 recall=0.695
+staged_ppdf       n= 1,000 repetition= 1 total=    39.65 ms precision=0.567 recall=0.695
+staged_ppdf       n= 1,000 repetition= 2 total=    39.14 ms precision=0.567 recall=0.695
+staged_ppdf       n= 1,000 repetition= 3 total=    37.61 ms precision=0.567 recall=0.695
+plaintext         n= 5,000 repetition= 1 total=    38.72 ms precision=0.558 recall=0.741
+plaintext         n= 5,000 repetition= 2 total=    39.24 ms precision=0.558 recall=0.741
+plaintext         n= 5,000 repetition= 3 total=    50.44 ms precision=0.558 recall=0.741
+full_encryption   n= 5,000 repetition= 1 total=   352.17 ms precision=0.558 recall=0.741
+full_encryption   n= 5,000 repetition= 2 total=   343.30 ms precision=0.558 recall=0.741
+full_encryption   n= 5,000 repetition= 3 total=   350.72 ms precision=0.558 recall=0.741
+staged_ppdf       n= 5,000 repetition= 1 total=   218.22 ms precision=0.558 recall=0.741
+staged_ppdf       n= 5,000 repetition= 2 total=   214.55 ms precision=0.558 recall=0.741
+staged_ppdf       n= 5,000 repetition= 3 total=   215.24 ms precision=0.558 recall=0.741
+plaintext         n=10,000 repetition= 1 total=    82.81 ms precision=0.550 recall=0.729
+plaintext         n=10,000 repetition= 2 total=    86.99 ms precision=0.550 recall=0.729
+plaintext         n=10,000 repetition= 3 total=    83.23 ms precision=0.550 recall=0.729
+full_encryption   n=10,000 repetition= 1 total=   770.30 ms precision=0.550 recall=0.729
+full_encryption   n=10,000 repetition= 2 total=   710.42 ms precision=0.550 recall=0.729
+full_encryption   n=10,000 repetition= 3 total=   686.97 ms precision=0.550 recall=0.729
+staged_ppdf       n=10,000 repetition= 1 total=   429.23 ms precision=0.550 recall=0.729
+staged_ppdf       n=10,000 repetition= 2 total=   442.31 ms precision=0.550 recall=0.729
+staged_ppdf       n=10,000 repetition= 3 total=   540.37 ms precision=0.550 recall=0.729
+
+Saved 27 raw trials to outputs/pilot/raw_runs.csv
+Saved comparison summary to outputs/pilot/summary.csv

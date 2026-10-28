@@ -1,0 +1,7 @@
+# Core, reproducible benchmark dependency; no downloaded data required.
+cryptography>=41
+psutil>=5.9  # Sample process RAM (RSS) at benchmark stage boundaries
+# Test suite:
+pytest>=7
+# Optional ADDITIVE homomorphic sum demo (not part of main benchmarks):
+# phe>=1.5
